@@ -39,7 +39,6 @@
         android:ems="10"
         android:hint="Item Name"
         android:inputType="text"
-        android:textColor="@color/white"
         app:layout_constraintBottom_toTopOf="@+id/urlInput"
         app:layout_constraintEnd_toStartOf="@+id/priceInput"
         app:layout_constraintHorizontal_bias="0.5"
